@@ -1,4 +1,4 @@
-package srp.violations.password_hasher;
+package srp.violation.password_hasher;
 
 public class PasswordHasher {
     public String hashAndSavePassword(String password) {

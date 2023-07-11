@@ -1,4 +1,4 @@
-package isp.violates.password_hasher;
+package isp.violation.password_hasher;
 public interface PasswordHasher
 {
     String hashPassword(String password);

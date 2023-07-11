@@ -1,4 +1,4 @@
-package ocp.violations.password_hasher;
+package ocp.violation.password_hasher;
 
 public class PasswordHasher {
     public String hashPassword(String password,HashingType hashingType)
